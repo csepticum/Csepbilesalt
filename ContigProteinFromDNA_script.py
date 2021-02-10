@@ -79,19 +79,4 @@ def TranslateSeq():
             contigprotein.write("\n")
             contigprotein.write(protein)
             contigprotein.write("\n")
-            
-            
-            
-            
-            
-            
-                
-            
-            
-        
-
-
-        
-    
-    
 
